@@ -4,3 +4,6 @@ Weather crome Extension which extracts the weather Data from an open api and sho
 
 ## Chrome Extension's execution on taskbar.
 <img src="taskbar.jpeg" alt="Taskbar Image">
+
+## Working Page of the Crome Extension.
+<img src="working.jpeg" alt="working image">
